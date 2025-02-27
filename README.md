@@ -23,8 +23,8 @@ This project is a backend service for a headhunting (recruitment) system, develo
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/saika-m/headhunting_service_springboot.git
-   cd headhunting_service_springboot
+   git clone https://github.com/saika-m/headhunting-data-service.git
+   cd headhunting-data-service
    ```
 
 2. **Build the project**:
