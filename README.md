@@ -1,4 +1,4 @@
-# Headhunting Service Spring Boot
+# Headhunting Data Service
 
 This project is a backend service for a headhunting (recruitment) system, developed using **Spring Boot**. It provides RESTful APIs to manage job listings, candidate profiles, and applications.
 
